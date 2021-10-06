@@ -1,2 +1,2 @@
 # openuds-installers
-Custom version of installers for openuds.
+First version of open UDS installers for Microsoft Windows.
